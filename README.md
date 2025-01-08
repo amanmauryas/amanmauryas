@@ -36,7 +36,6 @@ I'm **Aman Kumar Maurya**, a passionate **Data Science** student with a focus on
 - **Portfolio Website**: Coming Soon! 🌐
 
 ---
-
 ### ⚡ **Fun Facts**
 - 🌟 I'm blending **Data Science** and **Neuroscience** to explore the future of AI.
 - 📘 I enjoy learning from online courses like **CS50 (edX)** to enhance my skills.
