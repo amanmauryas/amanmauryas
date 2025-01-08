@@ -8,7 +8,6 @@ I'm **Aman Kumar Maurya**, a passionate **Data Science** student with a focus on
 - 🧠 Interested in **Neuroscience**, its research, and its applications in AI.
 - 🔬 Currently working on **AI/ML projects**, including mental health applications and brainwave analysis.
 - 💼 Exploring **internship opportunities** to enhance my skills.
-- ❤️ In a relationship for 10 years, balancing personal and professional growth.
 
 ---
 
