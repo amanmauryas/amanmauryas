@@ -30,14 +30,6 @@ I'm **Aman Kumar Maurya**, a passionate **Data Science** student with a focus on
 
 ---
 
-### 🤝 **Looking to Collaborate On**
-- AI/ML projects related to:
-  - Mental health and neuroscience.
-  - Healthcare and bioinformatics.
-  - Data-driven research projects.
-
----
-
 ### 📫 **How to Reach Me**
 - **LinkedIn**: [Aman Kumar Maurya](https://www.linkedin.com/in/amanmauryas/)
 - **Email**: info.amanmauryas@gmail.com
